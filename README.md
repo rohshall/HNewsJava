@@ -10,5 +10,5 @@ Build Instructions
 mvn package
 ```
 ```
-mvn -q exec:java -Dexec.mainClass="com.polyglot.App"
+mvn -q exec:java -Dexec.mainClass="com.polyglot.HNewsJava.App"
 ```
